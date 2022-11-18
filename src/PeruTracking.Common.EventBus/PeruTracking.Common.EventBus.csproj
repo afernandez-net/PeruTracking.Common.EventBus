@@ -5,8 +5,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <Title>PeruTracking.Common.EventBus</Title>
-    <Authors>$(AssemblyName)</Authors>
-    <Company>$(Authors)</Company>
+    <Authors>Luis Alexander Fernández</Authors>
+    <Company>Personal</Company>
+    <RepositoryUrl>https://github.com/afernandez-net/PeruTracking.Common.EventBus</RepositoryUrl>
+    <PackageReleaseNotes>Initial release</PackageReleaseNotes>
+    <Description>Paquete de soporte para mensajeria asincrona con RabbitMQ y Event Sourcing con MediatR</Description>
   </PropertyGroup>
 
   <ItemGroup>
